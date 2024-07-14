@@ -1,0 +1,4 @@
+name: LoginReminders
+version: '${project.version}'
+main: dev.mrjb.loginreminders.loginreminders.LoginReminders
+api-version: '1.20'
