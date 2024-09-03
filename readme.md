@@ -1,7 +1,7 @@
 # LoginReminders Plugin
 
 ## Overview
-
+[中文](https://github.com/HongMJ1315/LoginReminders/blob/master/readme_tw.md)
 The **LoginReminders** plugin is designed for Minecraft servers that use Discord to communicate server activities. It sends automatic notifications to specified Discord channels when players join or leave the server and allows server administrators to check online players directly from Discord.
 
 ## Features
